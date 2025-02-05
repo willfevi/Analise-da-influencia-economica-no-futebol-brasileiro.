@@ -4,6 +4,8 @@
 - **Willian Fernandes Vieira**  
 - **Lucas Pinheiro Machado**  
 
+## Professor
+- **Rafael Escalfoni**
 Este estudo foi desenvolvido para a disciplina de **Gestão do Conhecimento e da Informação** no **CEFET**.
 
 ---
@@ -63,13 +65,13 @@ Foram aplicados os seguintes filtros e transformações:
 Foram gerados gráficos para melhor interpretar os resultados:
 
 1. **Correlação entre número de vitórias e soma da diferença econômica**  
-   ![Correlação](correlacao_vitorias_economia.png)
+   ![Correlação](GCI/correlacao_vitorias_economia.png)
    
 2. **Proporção de vitórias de times com maior valor econômico**  
-   ![Proporção de Vitórias](proporcao_vitorias_economia.png)
+   ![Proporção de Vitórias](GCI/proporcao_vitorias_economia.png)
    
 3. **Distribuição da diferença econômica por resultado**  
-   ![Boxplot Diferença Econômica](boxplot_diferenca_valores.png)
+   ![Boxplot Diferença Econômica](GCI/boxplot_diferenca_valores.png)
 
 ---
 
